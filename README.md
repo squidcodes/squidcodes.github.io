@@ -1,0 +1,2 @@
+# squidcodes.github.io
+SquidCodes
