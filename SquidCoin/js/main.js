@@ -1,4 +1,3 @@
-// Mark Woods
 // Started on 8/13/2019
 // Version 1.0 Released on 8/22/2019
 
